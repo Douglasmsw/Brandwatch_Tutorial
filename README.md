@@ -7,3 +7,4 @@ This manual / video assumes basic knowledge of the Brandwatch platform, which al
 More details on Brandwatch can be found here: https://www.brandwatch.com
 It's a super useful platform and they publish some simple blog content on the natural language processing happening on the background that's pretty cool.
 
+*Note: I know the last couple page numbers do not line up with the table of contents, when redacting they shifted up a bit. I'm too lazy to go and edit the table of contents so we're just gonna have to live with it.
