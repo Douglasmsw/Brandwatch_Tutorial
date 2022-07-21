@@ -4,7 +4,7 @@ Here you can find a manual I made for non-technical employees who needed to use 
 
 This manual / video assumes basic knowledge of the Brandwatch platform, which allows a user to use boolean logic to scrape text from the internet and do some analysis. There are some beginner query writing resources like the Operators Appendix and the query writing video. It covers how to write queries to pull data and then how to set up a dashboard to track basic information like sentiment, traffic, authors, and mention volume.
 
-More details on Brandwatch can be found here: https://www.brandwatch.com
+More details on Brandwatch can be found here: https://www.brandwatch.com.
 It's a super useful platform and they publish some simple blog content on the natural language processing happening on the background that's pretty cool.
 
 *Note: I know the last couple page numbers do not line up with the table of contents, when redacting they shifted up a bit. I'm too lazy to go and edit the table of contents so we're just gonna have to live with it.
